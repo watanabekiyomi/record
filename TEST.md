@@ -6,7 +6,9 @@
 12:30〜13:00 休憩  
 13:00〜14:00 営業とは  
 14:00〜15:00 gitの使い方  
-15:00〜
+15:00〜16:00 IT部について    
+16:00〜18:00 N予備校にてhtml　教材の5まで終わった  
+18:00〜19:00 OJT紹介・A展示会について
 
 ### 学んだこと
 gitで毎日進捗を記録  
@@ -14,10 +16,12 @@ node.jsのインストール
 N予備校  
 IT部について  
 gitにcomit  
-保存→Staged Changes(＋)押す →git commit→insert名前つける→:wq→git push
-
+保存→Staged Changes(＋)押す →git commit→insert名前つける→:wq→git push  
+N予備校にてhtml、JavaScript  
+→タグが覚えられない。繰り返しやるしかない。  
 
 ### 次回の流れ
 ビジネスマナー  
 広告手法勉強会  
 受電・sansa  
+N予備校
