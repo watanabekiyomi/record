@@ -15,3 +15,31 @@ img | 画像
 ul | 順序なしリスト
 ol | 順序付きリスト
 table  | 表s
+
+# JavaScript
+- htmlからJavaScriptを読み込む
+    - script:src + Tabキー
+    - <script src="***.js"></script> ***は読み込みたいファイル
+
+
+# if文
+if(条件式){}else{}
+
+# for文
+for(初期化式; 条件式; 変化式){
+    繰り返したい処理をかく
+}
+
+# 配列
+var i = [A, B, C, D];
+- 配列の添字は0から始まる 
+    - ex)i[0] = A
+
+
+# 関数
+function 関数名 (a){
+    処理;
+    return b;
+}
+- a:引数
+- b:戻り値
